@@ -20,10 +20,10 @@ Example:**
 ## Problem 3
 
 **Write a program that will delete all negative number by using Pointer. You have to declare a 
-pointer array and dynamically allocate memory to input elements of array**
+pointer array and dynamically allocate memory to input elements of array.**
   
 ## Problem 4
 
   **Write a program that will input student’s information (i.e. name, id, cgpa) who have enrolled for CSE-207 course in Summer 2020. You have to declare a pointer variable to input the 
 information and dynamically allocate memory for storing information of each students. After 
-taking input find out the student name who has obtained highest cgpa**
+taking input find out the student name who has obtained highest cgpa.**
