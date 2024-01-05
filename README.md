@@ -2,15 +2,20 @@
 **Write a program to find Largest Number Using Dynamic Memory Allocation from a list of 
 elements. You have to input total size of elements and depending upon the number of 
 elements, the required size has to be allocated using DMA. 
-Example:
-Input size of array: 5 
-Array element: 1 2 3 4 5
-Expected Output: 5**
+Example:**
+
+**Input size of array: 5**
+
+**Array element: 1 2 3 4 5**
+
+**Expected Output: 5**
 
 ## Problem 2
-**Write a program to sort an array using Pointer. You have to write a function sortarray(int n, int * p) where n is the total array size and p is a pointer variable that have array address to solve the problem.
-Input 5 number of elements in the array: 25 45 89 15 82 
-Expected Output: 15 25 45 82 89**
+**Write a program to sort an array using Pointer. You have to write a function sortarray(int n, int * p) where n is the total array size and p is a pointer variable that have array address to solve the problem.**
+
+**Input 5 number of elements in the array: 25 45 89 15 82**
+
+**Expected Output: 15 25 45 82 89**
 
 ## Problem 3
 
